@@ -1,5 +1,5 @@
 PyPDF2==2.12.1
 easyocr
-PIL
+Pillow
 configparser
 numpy
