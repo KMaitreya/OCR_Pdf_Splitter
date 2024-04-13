@@ -1,0 +1,5 @@
+PyPDF2==2.12.1
+easyocr
+PIL
+configparser
+numpy
