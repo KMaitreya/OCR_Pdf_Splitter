@@ -4,25 +4,25 @@
 # In[14]:
 
 
-pip install PyPDF2==2.12.1
+#pip install PyPDF2==2.12.1
 
 
 # In[10]:
 
 
-pip install easyocr
+#pip install easyocr
 
 
 # In[11]:
 
 
-pip install pytesseract
+#pip install pytesseract
 
 
 # In[3]:
 
 
-pip install PIP
+#pip install PIP
 
 
 # In[2]:
