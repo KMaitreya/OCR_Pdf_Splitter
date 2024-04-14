@@ -3,3 +3,4 @@ easyocr
 Pillow
 configparser
 numpy
+pyinstaller
